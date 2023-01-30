@@ -1,3 +1,13 @@
+/*
+* File: Restapi.java
+* Author: Zentai Pál
+* Copyright: 2023, Zentai Pál
+* Group: Szoft-II-N
+* Date: 2023-01-30
+* Github: https://github.com/Pali002/
+* Licenc: GNU GPL
+*/
+
 package models;
 
 import java.io.IOException;
