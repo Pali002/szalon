@@ -1,0 +1,19 @@
+{
+    "vehicles": [
+        {
+            "license": "AA-CA-281",
+            "brand": "Citroen",
+            "price": 4000
+        },
+        {
+            "license": "AA-CA-420",
+            "brand": "BMW",
+            "price": 4200
+        },
+        {
+            "license": "AA-BA-583",
+            "brand": "Ford",
+            "price": 3800
+        }
+    ]
+}
